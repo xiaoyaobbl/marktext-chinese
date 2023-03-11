@@ -1,5 +1,4 @@
-# marktext-chinese-language-pack
-
+# marktext 中文版
 Simplified Chinese language pack for marktext
 
 marktext 中文版
