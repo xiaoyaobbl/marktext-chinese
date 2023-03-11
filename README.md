@@ -2,7 +2,9 @@
 
 Simplified Chinese language pack for marktext
 
-marktext 简体中文汉化包
+marktext 中文版
+MAC是插件
+WIN 是直接解压即可用
 
 ###### 更新内容：
 
